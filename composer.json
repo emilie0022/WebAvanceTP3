@@ -1,0 +1,10 @@
+{
+  "name": "librairie/mvc-project",
+  "description": "Projet MVC pour la librairie",
+  "autoload": {
+    "psr-4": {
+      "App\\": "./"
+    }
+  },
+  "require": {}
+}
